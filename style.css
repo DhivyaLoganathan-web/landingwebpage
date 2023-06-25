@@ -1,0 +1,76 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #b2004c;
+  }
+  .carousel-inner img {
+    width: 100%;
+    
+  }
+  .bi-tools {
+    size:64px;
+  }
+  
+  .carousel-slide{
+    margin-top: 0px;
+  }
+  .merits{
+    background-color: aquamarine;
+  }
+  .teams{
+    width: 100%;
+  }
+  .Askquestion{
+    margin-top: 1px;
+    border:2px solid #b2004c;
+
+  }
+  textarea{
+    width:500px;
+  }
+  body{
+    width: 100%;
+  }
+  .footer{
+    max-width: 100%;
+    background-color: #b2004c;
+  }
+  
+    
+   
+   #navlist li
+   {
+   display: inline;
+   list-style-type: none;
+   padding-right: 20px;
+   float: left;
+   }
+   #navlist{
+    background-color: lightgray;
+    height:250px;
+    padding-top: 6px;
+    width: 100%;
+   }
